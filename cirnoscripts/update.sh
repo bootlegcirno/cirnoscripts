@@ -3,9 +3,7 @@
 
 sudo apt update
 sudo apt upgrade
-xdotool T
 sudo apt autoremove
-xdotool T
 
 clear
 
